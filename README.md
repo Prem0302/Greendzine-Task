@@ -21,13 +21,11 @@ To access the system, use the following credentials:
 - **Username**: prem@gmail.com
 - **Password**: prem
 
-Login Page                                                                                                                             Employee Dashboard
+Login Page                                                                                                                           
 
-![Screenshot 2024-03-04 235948](https://github.com/Prem0302/Greendzine-Task/assets/121685154/5812a196-3755-49bb-96da-224f534a2839)    ![Screenshot 2024-03-05 000025](https://github.com/Prem0302/Greendzine-Task/assets/121685154/6ddfcae3-1895-4e92-aee4-5366dae94dae)
-
-
-
-
+![Screenshot 2024-03-04 235948](https://github.com/Prem0302/Greendzine-Task/assets/121685154/5812a196-3755-49bb-96da-224f534a2839)   
+  Employee Dashboard
+![Screenshot 2024-03-05 000025](https://github.com/Prem0302/Greendzine-Task/assets/121685154/6ddfcae3-1895-4e92-aee4-5366dae94dae)
 
 Search  User 
 
