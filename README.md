@@ -21,3 +21,6 @@ To access the system, use the following credentials:
 - **Username**: prem@gmail.com
 - **Password**: prem
 
+Login Page
+
+![Screenshot 2024-03-04 234542](https://github.com/Prem0302/Greendzine-Task/assets/121685154/356f6df6-bf31-450e-b665-c51bec113256)
