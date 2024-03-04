@@ -1,8 +1,23 @@
-# React + Vite
+# Project Name Readme
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+This project is a web application with various features. Here are the functionalities:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Login**: Users can log in to the system.
+2. **Dashboard**: After logging in, users are directed to the dashboard.
+3. **Navigation**: Clicking the Home Icon should navigate users back to the dashboard.
+4. **User Icon**: Clicking the user icon shows a list view with a search feature.
+5. **Employee List View**: When searching by employee name, only the relevant card should be visible.
+
+## Hosted Link
+
+The application is hosted at [link_here](https://snazzy-chaja-98f77c.netlify.app/)
+
+## Login Credentials
+
+To access the system, use the following credentials:
+
+- **Username**: prem@gmail.com
+- **Password**: prem
+
